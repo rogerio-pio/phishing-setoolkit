@@ -21,4 +21,5 @@
 - URL para clone: http://github.com/login ou http://site_escolhido
 
 ### Resultados
-![image](https://github.com/rogerio-pio/phishing-setoolkit/assets/108849824/c12be22f-efa0-44b0-8869-f375fe4680cc)
+![image](https://github.com/rogerio-pio/phishing-setoolkit/assets/108849824/c24509c2-d820-43d0-9105-aed76065f098)
+
