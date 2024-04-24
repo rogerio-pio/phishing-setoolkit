@@ -23,6 +23,6 @@
 ### Resultados
 ![image](https://github.com/rogerio-pio/phishing-setoolkit/assets/108849824/c24509c2-d820-43d0-9105-aed76065f098)
 
-### Após realizar o phishing é possível detectar boas práticas para não cair em golpes como esse. Observe sempre a URL:
+### Após realizar o phishing é possível detectar boas práticas para não cair em golpes como esse. Dica -> Observe sempre a URL:
  - Evite acessar sites que não são HTTPS
  - Evite acessar sites que a URL sejam números de IP.
