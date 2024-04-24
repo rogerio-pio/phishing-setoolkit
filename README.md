@@ -1,4 +1,4 @@
-# Phishing do github
+# Phishing - Github
 
 ## Phishing feito apenas com intenção de aprender e entender como esse ataque funciona, pois a melhor defesa contra esse e outros tipos de ataques é o conhecimento e a conscientização. Tenha ética!
 ### Os seguintes passos funcionam para diversos sites, não se limita a apenas o github.
